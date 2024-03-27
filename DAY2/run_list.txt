@@ -1,5 +1,0 @@
-FullWriteReadCompare 0xABCDEFFF
-FullRead10AndComapre
-Write10AndCompre
-TEST22
-TEST33
